@@ -37,3 +37,18 @@ Power BI dashboard is included for visualization of churn trends and KPIs.
 2. Run all cells step by step
 3. Review outputs and insights
 
+## 📂 Dataset
+
+This project uses the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) from Kaggle.
+
+- 7,043 customer records
+- 21 features including contract type, tenure, monthly charges
+- Download the CSV and place it in the project folder as `telco_churn.csv`
+
+## 🚀 How to Run
+
+1. Download dataset from the Kaggle link above
+2. Place CSV file in the same folder as the notebook
+3. Open `telco_churn_analysis.ipynb` in Jupyter
+4. Run all cells step by step
+
